@@ -1,4 +1,4 @@
-<h2>Developed by @harshitethic | Date: 22 March 2023, Wed</h2>
+<h2><strong>Developed by @harshitethic | Date: 22 March 2023, Wed</strong></h2>
 
 <p>The IP checker script is a highly sophisticated web application that allows website owners to retrieve and store various information related to the IP address of their website visitors. This script has been designed to capture the user's IP address, country, city, and email address and store this information in an organized manner.</p>
 
@@ -17,3 +17,8 @@
 <p>Using this application, website owners can monitor and analyze user behavior, gain valuable insights into the performance of their website, and make informed decisions that help them improve the user experience.</p>
 
 <p>In summary, the IP checker script is an essential tool that enables website owners to understand their audience better and make data-driven decisions that help them optimize their website's performance. The work of @harshitethic in developing this script is evident in its efficiency, reliability, and security, making it a valuable asset for any website owner.</p>
+
+<!-- Twitter button -->
+<a href="https://twitter.com/intent/tweet?text=Check+out+my+website+at+https%3A%2F%2Fharshitethic.in" target="_blank">
+  <img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Fharshitethic.in">
+</a>
